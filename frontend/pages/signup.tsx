@@ -64,7 +64,7 @@ export default function Signup() {
         flexDirection="column"
         justifyContent="center"
       >
-        <Heading color="gray.800" mt="64px" textAlign="center" size="xl">
+        <Heading color="gray.800" mb="48px" textAlign="center" size="xl">
           Sign Up
         </Heading>
         <Box
