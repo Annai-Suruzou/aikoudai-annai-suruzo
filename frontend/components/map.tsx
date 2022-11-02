@@ -53,7 +53,7 @@ const Map = () => {
   return (
     <MapContainer
       center={[35.183587556195846, 137.1130204400427]}
-      zoom={13}
+      zoom={20}
       minZoom={17}
       maxZoom={18}
       scrollWheelZoom={false}
